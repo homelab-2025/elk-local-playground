@@ -1,10 +1,10 @@
 ## ELK Local Playground
 
-A simple ELK stack setup using Docker Compose for local development and testing.
+This repository contains a simple setup to run an Elasticsearch cluster with Kibana using Docker Compose.
 
 This has been created using https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-docker-compose
 
-Note that you can also use [Elastic Cloud](https://www.elastic.co/cloud/) or [bonzai](https://bonsai.io/) to try out ELK stack without any local setup.
+Note that you can also use [Elastic Cloud](https://www.elastic.co/cloud/) or [Bonzai](https://bonsai.io/) to try out ELK stack without any local setup.
 
 ### Prerequisites
 
